@@ -1,0 +1,42 @@
+#reallytinytinytext {
+    font-size: 5px;
+}
+
+.storyText {
+    font-style:oblique;
+}
+
+.gameStartLabel {
+    font-style:oblique;
+
+}
+
+#dissTag {
+    font-style: italic;
+    font-size: 18px;
+    color: black;
+    opacity: 80;
+}
+
+#italics {
+    font-style: italic;
+}
+
+
+#zoomit {
+    transform:scale(1.5);
+}
+
+.pic {
+height: 200px;
+width: 150;
+}
+
+.Divend {
+    border: 5px outset #5083d4;
+    background-color: #5083d4;
+}
+
+body {
+    background-color: #5083d4;
+}
